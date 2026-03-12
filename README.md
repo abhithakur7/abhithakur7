@@ -1,52 +1,61 @@
-# Hi, I'm Abhi 👋
+<h1 align="center">Hi, I'm Abhi 👋</h1>
 
-Full-Stack Developer with ~4.5 years of experience building production web applications and scalable backend systems.
+<p align="center">
+Full-Stack Developer • React • Next.js • Node.js
+</p>
 
-I mainly work across **React / Next.js / Node.js ecosystems**, building end-to-end products from frontend to infrastructure.
-
----
-
-### ⚡ What I Work On
-
-* Full-stack product development
-* Scalable backend APIs
-* AI / LLM integrations
-* Payment systems (Stripe)
-* Real-time and event-driven systems
-* Performance and system design
+<p align="center">
+Building production web applications, scalable backend systems, and AI-powered features.
+</p>
 
 ---
 
-### 🛠 Tech Stack
+### About
+
+Full-stack developer with ~4.5 years of experience shipping real-world applications across the JavaScript ecosystem.
+Focused on scalable backend systems, clean frontend architecture, and modern AI integrations.
+
+---
+
+### What I Work On
+
+• Full-stack product development
+• Scalable backend APIs
+• AI / LLM integrations
+• Payment systems (Stripe)
+• Real-time systems
+• System design & performance optimization
+
+---
+
+### Tech Stack
 
 **Frontend**
-React • Next.js • TypeScript • TailwindCSS
+React · Next.js · TypeScript · TailwindCSS
 
 **Backend**
-Node.js • Express • NestJS • REST • gRPC
+Node.js · Express · NestJS · REST · gRPC
 
 **Data**
-MongoDB • PostgreSQL • Firebase / Firestore
+MongoDB · PostgreSQL · Firebase / Firestore
 
 **Infra & Tools**
-AWS • Docker • Vercel • Stripe • Git
+AWS · Docker · Vercel · Stripe · Git
 
 ---
 
-### 📌 Selected Work
+### GitHub Stats
 
-**Uplevelit**
-Creator-first career coaching platform with bundles, live sessions, and Stripe-based payments.
-
-**AI Workflows**
-LLM powered automation, document processing, and AI-assisted content systems.
-
-**Scalable APIs**
-Designed backend systems handling real-time features, payments, and multi-tenant logic.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhithakur7&show_icons=true&hide_border=true&rank_icon=github"/>
+</p>
 
 ---
 
-### 📫 Connect
+### Connect
 
-GitHub: [Abhishek Thakur](https://github.com/abhithakur7)
-LinkedIn: [Abhishek Thakur](https://www.linkedin.com/in/abhishek-thakur-5a5260164/)
+GitHub
+https://github.com/abhithakur7
+
+LinkedIn
+https://www.linkedin.com/in/abhishek-thakur-5a5260164/
