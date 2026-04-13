@@ -14,31 +14,37 @@ Full-stack engineer with 4+ years building scalable SaaS platforms, backend syst
 
 ### Experience Highlights
 
-* Designed multi-tenant architectures (RBAC, tenant isolation, white-labeling)
-* Built Stripe billing systems (subscriptions, payouts, webhooks, idempotency)
-* Developed microservices + API gateways
-* Built real-time systems (collaboration, live updates)
-* Integrated AI workflows (OpenAI APIs)
-* Deployed production systems using Docker, CI/CD, AWS/GCP
+- Designed multi-tenant architectures (RBAC, tenant isolation, white-labeling)
+- Built Stripe billing systems (subscriptions, payouts, webhooks, idempotency)
+- Developed microservices + API gateways
+- Built real-time systems (collaboration, live updates)
+- Integrated AI workflows (OpenAI APIs)
+- Deployed production systems using Docker, CI/CD, AWS/GCP
 
 ---
 
 ### Work
 
-**Multi-tenant SaaS Platform**
-→ Built backend + payment system (Stripe)
-→ Designed tenant isolation + role-based access
+**Multi-tenant SaaS Platform**  
+→ Built backend + payment system (Stripe)  
+→ Designed tenant isolation + role-based access  
 
-**AI Content Platform**
-→ Integrated LLM workflows
-→ Built real-time features
+**AI Content Platform**  
+→ Integrated LLM workflows  
+→ Built real-time features  
 
-**Data Platform**
-→ Designed PostgreSQL schema + ETL pipelines
-→ Optimized queries for scale
+**Data Platform**  
+→ Designed PostgreSQL schema + ETL pipelines  
+→ Optimized queries for scale  
 
 ---
 
 ### Tech
 
 Node.js · NestJS · React · Next.js · PostgreSQL · MongoDB · Docker · AWS · GCP
+
+---
+
+### Connect
+
+- LinkedIn: https://www.linkedin.com/in/abhishek-thakur-5a5260164/
