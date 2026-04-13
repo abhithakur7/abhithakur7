@@ -42,9 +42,3 @@ Full-stack engineer with 4+ years building scalable SaaS platforms, backend syst
 ### Tech
 
 Node.js · NestJS · React · Next.js · PostgreSQL · MongoDB · Docker · AWS · GCP
-
----
-
-### Connect
-
-- LinkedIn: https://www.linkedin.com/in/abhishek-thakur-5a5260164/
