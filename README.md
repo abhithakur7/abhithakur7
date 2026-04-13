@@ -47,7 +47,7 @@ AWS · Docker · Vercel · Stripe · Git
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhithakur7&show_icons=true&hide_border=true&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhithakur7&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 </p>
 
 ---
