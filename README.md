@@ -1,61 +1,44 @@
 <h1 align="center">Hi, I'm Abhi 👋</h1>
 
 <p align="center">
-Full-Stack Developer • React • Next.js • Node.js
-</p>
-
-<p align="center">
-Building production web applications, scalable backend systems, and AI-powered features.
+Senior Full-Stack Engineer • Node.js • React • SaaS • Payments
 </p>
 
 ---
 
 ### About
 
-Full-stack developer with ~4.5 years of experience shipping real-world applications across the JavaScript ecosystem.
-Focused on scalable backend systems, clean frontend architecture, and modern AI integrations.
+Full-stack engineer with 4+ years building scalable SaaS platforms, backend systems, and payment infrastructure.
 
 ---
 
-### What I Work On
+### Experience Highlights
 
-• Full-stack product development
-• Scalable backend APIs
-• AI / LLM integrations
-• Payment systems (Stripe)
-• Real-time systems
-• System design & performance optimization
-
----
-
-### Tech Stack
-
-**Frontend**
-React · Next.js · TypeScript · TailwindCSS
-
-**Backend**
-Node.js · Express · NestJS · REST · gRPC
-
-**Data**
-MongoDB · PostgreSQL · Firebase / Firestore
-
-**Infra & Tools**
-AWS · Docker · Vercel · Stripe · Git
+* Designed multi-tenant architectures (RBAC, tenant isolation, white-labeling)
+* Built Stripe billing systems (subscriptions, payouts, webhooks, idempotency)
+* Developed microservices + API gateways
+* Built real-time systems (collaboration, live updates)
+* Integrated AI workflows (OpenAI APIs)
+* Deployed production systems using Docker, CI/CD, AWS/GCP
 
 ---
 
-### GitHub Stats
+### Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhithakur7&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400"/>
-</p>
+**Multi-tenant SaaS Platform**
+→ Built backend + payment system (Stripe)
+→ Designed tenant isolation + role-based access
+
+**AI Content Platform**
+→ Integrated LLM workflows
+→ Built real-time features
+
+**Data Platform**
+→ Designed PostgreSQL schema + ETL pipelines
+→ Optimized queries for scale
 
 ---
 
-### Connect
+### Tech
 
-GitHub
-https://github.com/abhithakur7
-
-LinkedIn
-https://www.linkedin.com/in/abhishek-thakur-5a5260164/
+Node.js · NestJS · React · Next.js · PostgreSQL · MongoDB · Docker · AWS · GCP
